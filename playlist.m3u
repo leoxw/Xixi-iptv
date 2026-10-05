@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cctv-5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视",CCTV-5 体育
+https://xixitv.live/cntv/live/cctv5.m3u8
+#EXTINF:-1 tvg-id="cctv-5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视",CCTV-5 体育 [音频]
+https://xixitv.live/s/G4TpJAqRtVI87AB52wSLk_PLNRK3f5-8SdOY9geSNT02oeC6_rcYa5XSYR70rgUDLMfNkVKXI5tCwsMQj9W2Nre_rd_auMI38YUgSuPOdgGW0oZ00xIybUFrvbB0Ep-FAAAVfpicSQ
+#EXTINF:-1 tvg-id="cctv-16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+https://xixitv.live/cntv/live/cctv16.m3u8
+#EXTINF:-1 tvg-id="cctv-16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 [音频]
+https://xixitv.live/s/UNiKIiUjJ6z1bdH5DNeuKlXNiSh7tOvrMRNceHR-8dj2IxRXPiYKZrIiCgDN_REe_GxWUlhwu6fD9hGr8ujNEkygRnEgJscm4-7I6TX6bWs9g9tSWcQ_UQmZZzWTSE_tJefOexc0lYk
+#EXTINF:-1 tvg-id="cctv-1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV-1 综合
+https://xixitv.live/cntv/live/cctv1.m3u8
+#EXTINF:-1 tvg-id="cctv-2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV-2 财经
+https://xixitv.live/cntv/live/cctv2.m3u8
+#EXTINF:-1 tvg-id="cctv-3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
+https://xixitv.live/cntv/live/cctv3.m3u8
+#EXTINF:-1 tvg-id="cctv-4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
+https://xixitv.live/cntv/live/cctv4.m3u8
+#EXTINF:-1 tvg-id="cctv-4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际 [ChinaIPTV]
+https://xixitv.live/s/ve8k-RshbypYVBeb_Rx2FnQbHW5-HS-pm9q3hIn0hbjselyKUbWEStVy2HrvZtX23xPVHfRdX6i_KvKPCtjKutU_D9vZqRSiKA3sBpT377OJUhbHUh8KXfNdZeyeGwVAJ1GTKVKa863endtgEF-SHLQxgZS801cl9A_FpWJBUC1tx7m20wF1P6E_fENwTTen3QcK1natIJ0qQIAL_WwNypDOERuyF_PiZ01e1rrRP9aVdds-LDeRmPh1W2Na8lycEHwB2aYxsiuyPoDkCtffP2XdgrIoQf4CTJefYajJg637Yi8gB_FQhIF6zYJYM9mdkwzQ8EJeIzQVRjvmKJUxeyJpXspLpk94WIZNl_j_GXYGjHQLXPSZKsdC6ddHW3226WtUkcz8CgrDhlJXB31DfSa1OxFRWzUtYQRx_2mpmQ
+#EXTINF:-1 tvg-id="cctv-4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际 [ChinaIPTV]
+https://xixitv.live/s/XqG6nOHKfgR5ZdTU8dH9d12womXh1nRZJypc1JUONV2vFfxcvfT8TUQYBVGvmEF1MCdO0tw9Aq39Mny2Fqc2-v9ds67a7rjIcaL7--5cKWa-drUGPNCOUB8qn5FGZwUPGX5hQVwkxTgVqrTumF9RE6Fpog-er5Cl8isURZ0BBjePD9Yk4vO6SDkjoRhr26ZofQKCBhtvHcsEroOhuQjAJbJ9Pv1EkoWmAozBZNCtwIXU3rP6ngf00Ls9OUxiRpOdozi8qNGquw-WKt5PQWRGjtDMnYSEgOri7wbvYK0Us0Zwkaazk6vIbcc7lxnpUCl9XGKA5JDci3KMSCyjoP0IKDpEqBQtyxVMOi2lrch3_8b7vmZLpn4j6lcVqZhfCjedG8zJymgiVOan-o8L8Ftz_pcwcYaa0k9qpcG_9rKVLOs
+#EXTINF:-1 tvg-id="cctv-5plus" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+https://xixitv.live/cntv/live/cctv5plus.m3u8
+#EXTINF:-1 tvg-id="cctv-6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视",CCTV-6 (1080p)
+https://xixitv.live/cntv/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="cctv-7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
+https://xixitv.live/cntv/live/cctv7.m3u8
+#EXTINF:-1 tvg-id="cctv-8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
+https://xixitv.live/cntv/live/cctv8.m3u8
+#EXTINF:-1 tvg-id="cctv-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
+https://xixitv.live/cntv/live/cctvjilu.m3u8
+#EXTINF:-1 tvg-id="cctv-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-9 纪录 [ChinaIPTV]
+https://xixitv.live/s/4ndPUtB87HmijMhDIuye7KyGHvi-zdGlyfxF7vR8FQbt2H6SBZRp5ZtgNdInbJtvuhdQkDIOxq9IYoRr7D7W_butTtwih6kbxbhK_NClUvxQ3da9UYdwMy9usW_VaZPowtxe9pcWU1YmkoZhPKvEVtjCoc0NqtM68dFYCv7gevFZOB5Q0QHPXI7PcvS-nE4FDzjitTJCwqjchnJG9pZO-GdHt9rmfg5M8ctOHdN7dtl2DSREyuwPpWmaYl1P2pJKNs_uno5AeiKhuyZKVzhsRDquL4o1C7k-tfgcOJdIjpuQ1tYno0TLgtX-eDRx-z5Z8Sro
+#EXTINF:-1 tvg-id="cctv-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-9 纪录 [best-fan]
+https://xixitv.live/s/IRBhL0fe_NIf923GQ8vGz07ySWWscRbqQqfjebAhX-EjH2yCgLumXcro7PIdVrKv3b7kv-nzP9mYEnG9LR6-MHOWOXgGZ8-SOkrYppYImZQhN6s7TvZuen2F1g6FfjZj6r6sJDPT4oiTxU8GwLVQEtnFbnRcXsmQIdzzf060d_4JLFp3qJJgO2E9oCrYl7wtn01JYNJPCuY8-1GRYJRti6CKyYJySK0m6HmYQLgs2WQ9HGv6pru7T4swc6K46bAVz4CDbLoya4DxKHwT___FoWF1WyL7_dngIFgtFdKehDgPCy6jdFVKWLkMD7TumudCLGYc
+#EXTINF:-1 tvg-id="cctv-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-9 纪录 [best-fan]
+https://xixitv.live/s/yTQqdrDCjY-TcUIcr3q9aHppLKhdJS7M347vWda_f8wPE9nPXb_VTORSnqRaKkgr-N6YWLxGDpzGbwjL7Dsi7FEA6iYBnagRIooBhQOKIzY-uLxMUQg
+#EXTINF:-1 tvg-id="cctv-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-9 纪录 [best-fan]
+https://xixitv.live/s/stgpyoM3pYxmhoEX-UFALuKCBqBXJCf_6-2oVQrjcyBHEDo5hKgNm5eh7WuRQl4DnukmWVDTFt7G2w7fpHAADO5cLslT7M9MnWLf1gE5opSrm1A3nrX0Svdbs_Ly1FZ0SiIcJcCe8zdzNqCs6Hy5DQbAeqPuFDvoEzFwFmW4GGy3B0X_gGxaz_5iyPxbDM_W23GpwZpQB-WTBEh5HzAahfeoGy617XSDBILGIIKejV065oSse48vGDXOgil1wkHJtBFLVtdRNgh7QeyFByne_OToyerP8VMTfPybDlpDtGsv99bSJx1rnMJQ4V1XHMY1KNov
+#EXTINF:-1 tvg-id="cctv-10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视",CCTV-10 科教
+https://xixitv.live/cntv/live/cctv10.m3u8
+#EXTINF:-1 tvg-id="cctv-11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
+https://xixitv.live/cntv/live/cctv11.m3u8
+#EXTINF:-1 tvg-id="cctv-12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
+https://xixitv.live/cntv/live/cctv12.m3u8
+#EXTINF:-1 tvg-id="cctv-13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
+https://xixitv.live/cntv/live/cctv13.m3u8
+#EXTINF:-1 tvg-id="cctv-13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视",CCTV-13 新闻 [best-fan]
+https://xixitv.live/s/jDDtxhJz1NWzO9cFKV19GaaExLyloWZJqxMjt1wigFFGXEujmDf8-V9E4zac6CptKYaS6EP5dej7S1z_kaLwGxK2HbVrTkHBNZsjTrzg32R9_Ir1sQRuo8Urr7tJ2w
+#EXTINF:-1 tvg-id="cctv-14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视",CCTV-14 (1080p)
+https://xixitv.live/cntv/live/cctvchild.m3u8
+#EXTINF:-1 tvg-id="cctv-14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视",CCTV-14 (1080p) [best-fan]
+https://xixitv.live/s/Z0z6Fi7wRGLa0b_56EfS_rb8f-ic9iJHrrFhEq3PYDBjasYDZ3vnNAYo65D2y6mHCl7YwdmXe5cFl8ZGoP09eYSemnyWLaTJwE4yuIfVsoq132EHqr9yeYv08CLgoQ
+#EXTINF:-1 tvg-id="cctv-15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
+https://xixitv.live/cntv/live/cctv15.m3u8
+#EXTINF:-1 tvg-id="cctv-17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
+https://xixitv.live/cntv/live/cctv17.m3u8
+#EXTINF:-1 tvg-id="cctveurope" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际（欧）
+https://xixitv.live/cntv/live/cctveurope.m3u8
+#EXTINF:-1 tvg-id="cctvamerica" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际（美）
+https://xixitv.live/cntv/live/cctvamerica.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视",湖南卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
+https://piccpndks.v.kcdnvip.com/audio/liaoning_2/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视",青海卫视
+https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+#EXTINF:-1 tvg-id="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 tvg-id="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视",延边卫视 [srs.iyb983.cn]
+https://xixitv.live/s/6Ticf7Ly1t3vwGgzJ1_ce7nXKvxiqmjuH7L5mbc5H2oTZzXH_vp_GXqsssOPEqlH--mm1Kn6zffqhc-ERjcvSwI_fx0Z8BhUAHcHyYE9mXMTAQ5BRyZPxQwO4GH9mMTCcw
+#EXTINF:-1 tvg-id="安多卫视" tvg-logo="https://tb.zbds.top/logo/安多卫视.png" group-title="卫视",安多卫视
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 tvg-id="人间卫视" tvg-logo="https://tb.zbds.top/logo/人间卫视.png" group-title="卫视",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 tvg-id="东方卫视4k" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="卫视",东方卫视4K
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-id="cgtn英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="cgtn记录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-id="cgtn西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-id="cgtn阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视",CGTN阿语
+https://0472.org/hls/cgtna.m3u8

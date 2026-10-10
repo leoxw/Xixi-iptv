@@ -11,34 +11,30 @@ https://srs.iyb983.cn:443/video/CYS/index.m3u8
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-id="人间卫视" tvg-logo="https://tb.zbds.top/logo/人间卫视.png" group-title="卫视",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-id="东方卫视4k" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="卫视",东方卫视4K
-https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 tvg-id="taishan03" tvg-logo="https://p3.img.cctvpic.com/scene/live/pic/2024/06/11/a7e846e9e12d9ef7b5d57e3854e8ec6c.jpg" group-title="直播中国",黑龙江 · 嘟噜河省级自然保护区视角1
-https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="lsdfgfl" tvg-logo="https://p1.img.cctvpic.com/scene/live/pic/2025/04/30/ca3c90b914631ade5c1a81cfc5b49fcf.jpg" group-title="直播中国",甘肃 · 漳县贵清山植物园
+https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="hkylxs05" tvg-logo="https://p5.img.cctvpic.com/scene/live/pic/2026/05/11/a18b9996b3b94359c5ed378018ccb28b.jpg" group-title="直播中国",黑龙江 · 嘟噜河省级自然保护区视角2
 https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="zjwzbblh" tvg-logo="https://p2.img.cctvpic.com/scene/live/pic/2025/03/26/f062502a0afd6175f6ac4ef9c1fab09a.jpg" group-title="直播中国",河北 · 老龙头景区
-https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="lpsgmjng01" tvg-logo="https://p5.img.cctvpic.com/scene/live/pic/2025/03/25/5b593ec1a2e4a39af5fd16b885b45d09.jpg" group-title="直播中国",河北 · 南川老街
 https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="xjtcdhsz" tvg-logo="https://p1.img.cctvpic.com/scene/live/pic/2025/03/20/231b822ac4a5c3c10b1b49010926839e.jpg" group-title="直播中国",河北 · 京娘湖 视角2
 https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="hssxf" tvg-logo="https://p4.img.cctvpic.com/uploadimg/2025/03/12/1741744043350542.jpg" group-title="直播中国",河北 · 塞罕坝视角1
-https://gcalic.v.myalicdn.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="jhs05" tvg-logo="https://p5.img.cctvpic.com/scene/live/pic/2024/07/30/c5f8343f5774e856c23fd1d28a75f183.jpg" group-title="直播中国",西藏 · 南迦巴瓦星空
-https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="hkts02" tvg-logo="https://p4.img.cctvpic.com/scene/live/pic/2024/07/17/1aa480b19cc07424fe66c034a5e239c7.jpg" group-title="直播中国",湖南 · 崀山八角寨
-https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="pts01" tvg-logo="https://p5.img.cctvpic.com/scene/live/pic/2024/06/06/0c3a37791a22a1a592c674afdf44abca.jpg" group-title="直播中国",河南 · 红石峡
-https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="dhyyqsm" tvg-logo="https://p4.img.cctvpic.com/scene/live/pic/2024/01/03/348520e0de7227ca107d71213283e7d0.jpg" group-title="直播中国",云南 · 勐焕大金塔 
-https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="djyqyl1" tvg-logo="https://p3.img.cctvpic.com/scene/live/pic/2024/12/04/ef2a14544e98ca5de879e3d83283a5b7.jpg" group-title="直播中国",广东 · 福田红树林
+https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="taishan02" tvg-logo="https://p3.img.cctvpic.com/scene/live/pic/2024/09/11/c1b0436c655929bf1a7d590320a959df.jpg" group-title="直播中国",陕西 · 乾陵景区
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="hkylxs06" tvg-logo="https://p2.img.cctvpic.com/scene/live/pic/2024/03/19/feb2472707f2640e2259c1934e5f8679.jpg" group-title="直播中国",西藏 · 岷山彩门民宿
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="zsslstpt" tvg-logo="https://p3.img.cctvpic.com/scene/live/pic/2024/02/04/275f9861faf24801d14e0b71a84b5384.jpg" group-title="直播中国",湖南 · 田汉文化园
+https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="emsyh" tvg-logo="https://p3.img.cctvpic.com/photoworkspace/2024/01/12/2024011217273525626.jpg" group-title="直播中国",浙江 · 嵊泗县中心渔港
+https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="hsxhdxg" tvg-logo="https://p1.img.cctvpic.com/scene/live/pic/2024/01/03/bc133fe0783e242ff439a562b9c1e475.jpg" group-title="直播中国",云南 · 瓦窑镇瓦窑码头
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="hsyg" tvg-logo="https://p5.img.cctvpic.com/scene/live/pic/2024/01/03/a5a18d3a421053350ed4fdba813e232d.jpg" group-title="直播中国",云南 · 弥勒月亮小镇
 https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="hlzycc" tvg-logo="https://p3.img.cctvpic.com/scene/live/pic/2023/12/29/8e6935b0396c77a944c95c900e946bc7.jpg" group-title="直播中国",河南 · 浚县古城景区北城门
-https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="tms05" tvg-logo="https://p2.img.cctvpic.com/photoworkspace/2023/12/15/2023121516171658372.jpg" group-title="直播中国",云南 · 景迈山
-https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="fcw03" tvg-logo="https://p5.img.cctvpic.com/photoworkspace/2023/12/20/2023122015581249678.jpg" group-title="直播中国",云南 · 千年古寨曼丢
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="cgtn英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="cgtn记录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视",CGTN记录

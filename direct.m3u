@@ -1,18 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视",四川卫视
-https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视",河北卫视
-https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1791785019&k=529e523e4a89d11eef42f73bbabe64bf
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视",河南卫视
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视",青海卫视
+https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 tvg-id="安多卫视" tvg-logo="https://tb.zbds.top/logo/安多卫视.png" group-title="卫视",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-id="人间卫视" tvg-logo="https://tb.zbds.top/logo/人间卫视.png" group-title="卫视",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 tvg-id="lsdfgfl" tvg-logo="https://p1.img.cctvpic.com/scene/live/pic/2025/04/30/ca3c90b914631ade5c1a81cfc5b49fcf.jpg" group-title="直播中国",甘肃 · 漳县贵清山植物园
+https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="hssxf" tvg-logo="https://p4.img.cctvpic.com/uploadimg/2025/03/12/1741744043350542.jpg" group-title="直播中国",河北 · 塞罕坝视角1
+https://gcalic.v.myalicdn.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="gllj01" tvg-logo="https://p2.img.cctvpic.com/uploadimg/2025/03/12/1741744042997187.jpg" group-title="直播中国",河北 · 塞罕坝视角2
+https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="hkylxs03" tvg-logo="https://p4.img.cctvpic.com/scene/live/pic/2025/01/08/acca6b749e7238c6e049269246eca720.jpg" group-title="直播中国",吉林 · 北山公园
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="zsslstpt" tvg-logo="https://p3.img.cctvpic.com/scene/live/pic/2024/02/04/275f9861faf24801d14e0b71a84b5384.jpg" group-title="直播中国",湖南 · 田汉文化园
+https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="emsyh" tvg-logo="https://p3.img.cctvpic.com/photoworkspace/2024/01/12/2024011217273525626.jpg" group-title="直播中国",浙江 · 嵊泗县中心渔港
+https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="hsyg" tvg-logo="https://p5.img.cctvpic.com/scene/live/pic/2024/01/03/a5a18d3a421053350ed4fdba813e232d.jpg" group-title="直播中国",云南 · 弥勒月亮小镇
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="mdjxxmhjyxj" tvg-logo="https://p3.img.cctvpic.com/photoworkspace/2023/12/15/2023121516261376186.jpg" group-title="直播中国",云南 · 寻甸县城区
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="cgtn英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="cgtn记录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视",CGTN记录

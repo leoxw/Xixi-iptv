@@ -8,7 +8,7 @@
     "sources": [
       {
         "label": "音频",
-        "url": "https://xixitv.live/s/KbaB9Mi93ZXPi6M2Qd521tUe5W0Org41OD5KBopqIS-aOdbhLr9aYBI5d1-T4pMFKQU3EGPngBvKiplTYnU6V_GbG-oCgDNQHrZ3v-YMM2LDSkf86_b6aCBeHPhgQd-hjVRXME00LQ"
+        "url": "https://xixitv.live/s/om-Cegiy6WGlJYIMU0Z6bAUdYhR5mkaVUtL0CdoJuzCM1ajf5UWWq36whG8yY5FR8tC3v2aIk1R1IjyBGhJXAQKHMB7dOsovoBfFD6ES_hr4KaSMsU9DPpwwWdx7-T8GJm6ugbsX8Q"
       }
     ]
   },
@@ -21,7 +21,7 @@
     "sources": [
       {
         "label": "音频",
-        "url": "https://xixitv.live/s/0SMkT6sKu3XpUVwnUQOqzvoET_rAz_VwzjUQCVCPWEdCaIOx-HSf8J3ZbFUOh-LfFH5YeWXquAV51sffRJ9gVA6cS8nMAdttA-9L_oyqkr_3TnSuew5mk04oPETAnUc_VjMJ0PdVXGA"
+        "url": "https://xixitv.live/s/BBTUUkYs6u3NRG9PD2tKtuTsqhRkueul4EAcUl-YVf3jokvt96oIJdXK4eA-OrniBd1f7oBhYgGdAQgpksDGjrQ7qhiRRp1WGKnPdBbm_S3-gjtqBa0lSgwnd2EFl90TPQ70bSplSQo"
       }
     ]
   },
@@ -58,7 +58,11 @@
     "sources": [
       {
         "label": "ChinaIPTV",
-        "url": "https://xixitv.live/s/zyN3CaRE6DJud3gZFHlL7USOBEBvrt7y665Jkdrm_o_Fnwt-7kiY1ajM7_Jji2wzxBQUdDak-RjjMiBTAxG6fffkk6_MWSlD7puslNbG1rERykUHg4TNxCUMx1zYmdMSqal4IS9vYFuTyOoPTCGy5njbWuRbMXAZlrzwdFFnVEB1w90Ha-wbLMGeA2ag2W6tZ3gYFnhNLZvs7ebxB8gBFQq6q5X7J4b6cM4F656g5JKwBta6y86h0EXo3wyvnKGowgVv1qxBRePpXuBY3momb25r6vO3ZnCfRpF8EdHW8mD-vRlFNV3spQUNGgbJwFVYvWvLrEK-W4_ElXRbFS4K--qrLmXZhQkvLJZzqIkc53SPcX7M7czodCZF1Ax7qqBlRY_IcudJLK5MthliLJnRnZrg1lZHgfjPXlRMFw1Glw"
+        "url": "https://xixitv.live/s/ILOMIow1SzPXsocWuh6-H5Ik5aS3QYjdBCltWZzdYtaEggvYJszCs_Qk8uXDEcQECDKNHoeTv1IikhKXLhZYsM1B5a6NZMfi_JPFIsnUgy2suJHTlkMDr1quic85mZhvpDbXZK1dheRMsykaxcQIpcC70Dk0LSniQzhFYkSgMIBYlxQe34nKI7S1gI4y_nFQqI2pLpPSji0fGzO_WpSnstIJUMDsDbXVwV6rXyaxajrRdVZfQ7My3e7dPEnm0b7Q9ImTCpY7ZbBbC_77NkNRXEM00beIDOHh2_xlpdlzkkCMpsuBs0RlUKgwiL4KKoZrwYwwGtBo-5vLsjItkKMspqpqIfswRL6INYAkZoMEEpdDjYQsAxt5DMalEMrL-lNQPNuIObsSYTUd3-Aabx72z0FUndL-XqIoV10aGevh6Q"
+      },
+      {
+        "label": "ChinaIPTV",
+        "url": "https://xixitv.live/s/iVuqjl4mVJUschUvt5p8RgelwVenOo50qHnYAiY_wHUves1LHsxhiIdKPEDxCyxNabUznqv0KxEZIsVfyya7KtAS4o7Xbycrb70AlKpbzWB5gE_kg4tgNX92bPRazjS7Vwl_eH--Mm1XZINUCigKNU57u4fSVMWiuuhBKX7itgRtW6Ox37DEMWYYF6WXYgjwojGvA7EtCallPbkKHSbbTPf0grne78qD81Y_S9W_lPTQMUyM8td9jic5_Y0LX4f6Y4GHQ5y5TxVmr4f3Me4eXe0ttHZ0Tk3kziOIYdSWZ33Z1F-axigFI1fBrg3rJwr5s6q_wTgw6O1dCHmW82qiYugkAKM91tbB-naCl-qgZQgEM7Y5JYhHLOC84kN1mcvYxHyUyx-4DeeG1QqIso8iHmZVzAeh5BC8BOohnj3FwIw"
       }
     ]
   },
@@ -72,11 +76,16 @@
   },
   {
     "id": "cctv-6",
-    "name": "CCTV-6 (1080p)",
+    "name": "CCTV-6 电影频道",
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV6.png",
     "url": "https://xixitv.live/cntv/live/cctv6.m3u8",
-    "sources": []
+    "sources": [
+      {
+        "label": "音频 · ChinaIPTV",
+        "url": "https://xixitv.live/s/869BZ574f7UnP9VlSKlwd6RzjKeHsvYjHJpCdixmER0oVyGvtq2BpoBlwppGz_nlpMs8ZRjvNXVNxqMm8K6cDXf1cU3IZM6Egu7WbE6NQs1E0ugUZFnAkWIh9dQezZ8V_w0xhwILlxAh6jU"
+      }
+    ]
   },
   {
     "id": "cctv-7",
@@ -103,15 +112,15 @@
     "sources": [
       {
         "label": "ChinaIPTV",
-        "url": "https://xixitv.live/s/zptmUG-YaYulxYVuykszny9iNy0p-UTAGdBC1mhiS2FZupGXssAbMV4c8K1T60YvJJ1ALpdHxv9SVG_2s7Aks0DGW3-1AK2nKYTuHOQPxlVXOmsivMh-ZR5ncty3wxsV9XOC6knBrWRc_pKgtsHisAnKHq7wmjX_Jch6FrftGGTcslDJrYSXRgcUKwVmyc6MvAbIeqNTyGWL03ZPm7qrx6Cvvp88-Ou2LZBiMWKTFgpKs1-R5Fd80KTRx9kz6UWGNMDkMX1Pul7BwMo9ldOUUoYd0By-YUk7alBT-CqUhXX1YifwiFORhWLmKwNBGDutk6sB"
+        "url": "https://xixitv.live/s/WWfgdFqfciEc93tpP3A6og4na42rWwZpcBGit8OJ2MK8-aXl2Jz6XGVL9K5HjI92z4W3smKLZVAWEedcVKpKWsaJ-KeQd794wi2lcc1kmOuxZP4fuVClZysoHw5x6pPCodbIwCbYsGs0PPFSz2CFsro625VpGU7X3aJfzdhzItrIS_-qL-m0xS6P2Z-c0NObc6LBKvwMX7CfsIVW3c0XM4-xk3WY64a7KYtO-JSb7KHEAYTysJX8lSAZ41LxShkIqv4uzfs1ApO35XDiAWpS0ujXjwsFUxsU1NStFN313XX0wFB3h9baziEldpLSrbErVtXb"
       },
       {
         "label": "best-fan",
-        "url": "https://xixitv.live/s/mrKjLxsa5cXPVSUdirre1lkozXytn86ixiSkp6E-TbTLn6m8Sgi7vQQailDsSowZSFlKmj_nxz-NdVXa-N4Kk90fTcqasRo469PY_ORZuWnVkHFg95uGt3IqYDZ31uvnYK3bvb2flNjZYhLV2iVSHquIAiiqTXxFokbb0w9GAWIRHImNpwPDKeaxqQ7-u-mHC3M7gxRF0P5xLCdZz-1lSrDz1EjXGvEtQqrE5msf1J2aad4vTuYuxRQLhGs-f4RALBZYedsQoOK6J7NzoqxdwfuzRW82nFczeSDaAdhS6bTRhw2nm-chszLBeK-4GqctfyQG"
+        "url": "https://xixitv.live/s/NwVhVxODNlxQaGz5dmv1H_0-EC1SpUQVM7bjE7ylVOU0VBR7QGDMSwaAhlf_O0BpuVM9owD7UIcj5xANK8dU103Iwk5PtWdJN5Tec1h6x7kMizorQkZxujQ7ecoRqY3hOc1dFuH-UbT6_4lfihoMqF03Ub6bmihqhA_Q3G6alPnG3nIBNu2aGGk-5cyshTVo6_xE6hhMzyFSMDzTHoEy17WzZH-KZrdqsyC0B5mh6nJ1xeu5NycPKQEsROdnxnLnBa0E6xnz0DHJ1elOqqplPE_5MzQfCL6hjuF3_PjAOdt0ljADRJVX-56UeVVMJY0jqcm9"
       },
       {
         "label": "best-fan",
-        "url": "https://xixitv.live/s/6Yke3xTsAixIbBjKbknf80dWYa5d1H_MIjS-is9jOLc3Y_HyQTOQ9N0dOHaG5FSL8agFN-fx3CUKrz-J4XaLTATJxq8po0ggRuvKNuHkmN1Wrr3UJqY"
+        "url": "https://xixitv.live/s/eh6fd3131QAEUJA32vp-qY8dJ6hoD9uUHzw3WO_eGLPBJCgEvoIbOqDo_4Ygs_KvSp-QGaO9voOsrpkN2-tDqA1dYuMpujs18mHcC_DEmGuYVGpuY70"
       }
     ]
   },
@@ -148,7 +157,7 @@
     "sources": [
       {
         "label": "best-fan",
-        "url": "https://xixitv.live/s/o_fj7OU00cqRlv5qQd3Wis5FakEhIvyhc2WLQSNhfqyrAVP5GXW1mIe23Y8mrsJoeob4wAvB9oZ0tnNJJjjJy-kN9wbV1rke8_iKwyfh8G-z5gRcytsgxNeVhB9wCA"
+        "url": "https://xixitv.live/s/w-OAc93aFV5N3Uaw00eEeEEbORUi1X8vnGiYjhG9VabJSoZtv-J4ZqHXyzj2meD2duAOioC5pw489qRctfsRW2FgzcJq07Lly0CrMmuH7xUZUpqxsfBHUFNrDFa5Jw"
       }
     ]
   },
@@ -161,7 +170,7 @@
     "sources": [
       {
         "label": "best-fan",
-        "url": "https://xixitv.live/s/u8b5urpio1mMnqKqv9MfV0fi9-2RimBmYXL4mlRzf95TC3VovuR2jBBIyVxMbJ_II7sVK0ZKvXqGMVH5k1Sd2Qtb25_ejk4Eq5xgdo_kN5Qfew0iF4PeGXgh8kxdrA"
+        "url": "https://xixitv.live/s/yDfyhu2jG4vGTGw5X_QZSi2_IdKV5g47LeZPDZZMyw9yyzPAkYVMZBb_JqaDTgmOJMnLTE1X3nXX_ZFw4U_SgoA-hvH1iWXFavorfDF6H0OVcUn5anyqkXXDcvYa1w"
       }
     ]
   },
@@ -171,7 +180,12 @@
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV15.png",
     "url": "https://xixitv.live/cntv/live/cctv15.m3u8",
-    "sources": []
+    "sources": [
+      {
+        "label": "音频 · best-fan",
+        "url": "https://xixitv.live/s/oxjCGgMWlxjQVUJrUBSOWcZqs2Swx3zeqwsKogq_ycZdeugBSYevRtCW_HGuNFq2ltpWMrB-_vGqM9HAVNKOKzl3Is9_TbIHWwc3Ycmao9YQQHNTL4zMs662WfwuQd3QMg90BpTLOqvJYOwp"
+      }
+    ]
   },
   {
     "id": "cctv-17",
@@ -198,19 +212,19 @@
     "sources": []
   },
   {
+    "id": "湖南卫视",
+    "name": "湖南卫视",
+    "group": "卫视",
+    "logo": "https://live.fanmingming.cn/tv/湖南卫视.png",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8",
+    "sources": []
+  },
+  {
     "id": "河南卫视",
     "name": "河南卫视",
     "group": "卫视",
     "logo": "https://live.fanmingming.cn/tv/河南卫视.png",
     "url": "https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481",
-    "sources": []
-  },
-  {
-    "id": "浙江卫视",
-    "name": "浙江卫视",
-    "group": "卫视",
-    "logo": "https://live.fanmingming.cn/tv/浙江卫视.png",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
     "sources": []
   },
   {
@@ -222,7 +236,7 @@
     "sources": [
       {
         "label": "srs.iyb983.cn",
-        "url": "https://xixitv.live/s/9OpCr9bserxjqq5QscaNQf5b4BG7JihLuhDqsjFhVISusg2YqKYEYYAVg4H-J0bn3al8Pf007nSQQcQaxmJCDYIM59A1BN5V5sjqBrH4NxcXsa72NXJSAuGFtSi1EciHaw"
+        "url": "https://xixitv.live/s/XP3pJYFqsE44ghc9B4zzEkn1xTVbBMadglbPW_3OLIpCsX4r_Ir_dRh2_UWR0PKwB10kJ3NqP32mHU8nXiD7NStKot52OD7zF0qkSQYBR9nX412ZTFANQ1yqkH71K7tRHw"
       }
     ]
   },
@@ -259,27 +273,11 @@
     "sources": []
   },
   {
-    "id": "taishan03",
-    "name": "黑龙江 · 嘟噜河省级自然保护区视角1",
+    "id": "lsdfgfl",
+    "name": "甘肃 · 漳县贵清山植物园",
     "group": "直播中国",
-    "logo": "https://p3.img.cctvpic.com/scene/live/pic/2024/06/11/a7e846e9e12d9ef7b5d57e3854e8ec6c.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8?contentid=2820180516001",
-    "sources": []
-  },
-  {
-    "id": "hkylxs05",
-    "name": "黑龙江 · 嘟噜河省级自然保护区视角2",
-    "group": "直播中国",
-    "logo": "https://p5.img.cctvpic.com/scene/live/pic/2026/05/11/a18b9996b3b94359c5ed378018ccb28b.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8?contentid=2820180516001",
-    "sources": []
-  },
-  {
-    "id": "zjwzblt",
-    "name": "河北 · 金梦海湾",
-    "group": "直播中国",
-    "logo": "https://p5.img.cctvpic.com/scene/live/pic/2025/03/26/710c31e2d0ffdb9c7d62653f206c58aa.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001",
+    "logo": "https://p1.img.cctvpic.com/scene/live/pic/2025/04/30/ca3c90b914631ade5c1a81cfc5b49fcf.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001",
     "sources": []
   },
   {
@@ -299,27 +297,19 @@
     "sources": []
   },
   {
-    "id": "gllj01",
-    "name": "河北 · 塞罕坝视角2",
+    "id": "xjtcdhsz",
+    "name": "河北 · 京娘湖 视角2",
     "group": "直播中国",
-    "logo": "https://p2.img.cctvpic.com/uploadimg/2025/03/12/1741744042997187.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8?contentid=2820180516001",
+    "logo": "https://p1.img.cctvpic.com/scene/live/pic/2025/03/20/231b822ac4a5c3c10b1b49010926839e.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8?contentid=2820180516001",
     "sources": []
   },
   {
-    "id": "hsxksqj",
-    "name": "吉林 · 朱雀云顶远眺",
+    "id": "jhs05",
+    "name": "西藏 · 南迦巴瓦星空",
     "group": "直播中国",
-    "logo": "https://p3.img.cctvpic.com/scene/live/pic/2025/01/08/1bcb106b032729c95ccb3dcba6652e73.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001",
-    "sources": []
-  },
-  {
-    "id": "hkylxs03",
-    "name": "吉林 · 北山公园",
-    "group": "直播中国",
-    "logo": "https://p4.img.cctvpic.com/scene/live/pic/2025/01/08/acca6b749e7238c6e049269246eca720.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8?contentid=2820180516001",
+    "logo": "https://p5.img.cctvpic.com/scene/live/pic/2024/07/30/c5f8343f5774e856c23fd1d28a75f183.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8?contentid=2820180516001",
     "sources": []
   },
   {
@@ -331,14 +321,6 @@
     "sources": []
   },
   {
-    "id": "zsslstpt",
-    "name": "湖南 · 田汉文化园",
-    "group": "直播中国",
-    "logo": "https://p3.img.cctvpic.com/scene/live/pic/2024/02/04/275f9861faf24801d14e0b71a84b5384.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8?contentid=2820180516001",
-    "sources": []
-  },
-  {
     "id": "ljgcwglytylxs",
     "name": "重庆 · 巫山长江画卷",
     "group": "直播中国",
@@ -347,35 +329,19 @@
     "sources": []
   },
   {
-    "id": "ylxs12",
-    "name": "云南 · 保山板桥镇青龙街",
+    "id": "dhyyqsm",
+    "name": "云南 · 勐焕大金塔 ",
     "group": "直播中国",
-    "logo": "https://p2.img.cctvpic.com/scene/live/pic/2024/01/03/b3a665d65211384538e8ed3b8779e1e4.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8?contentid=2820180516001",
+    "logo": "https://p4.img.cctvpic.com/scene/live/pic/2024/01/03/348520e0de7227ca107d71213283e7d0.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8?contentid=2820180516001",
     "sources": []
   },
   {
-    "id": "hsxhdxg",
-    "name": "云南 · 瓦窑镇瓦窑码头",
+    "id": "tms05",
+    "name": "云南 · 景迈山",
     "group": "直播中国",
-    "logo": "https://p1.img.cctvpic.com/scene/live/pic/2024/01/03/bc133fe0783e242ff439a562b9c1e475.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001",
-    "sources": []
-  },
-  {
-    "id": "hsyg",
-    "name": "云南 · 弥勒月亮小镇",
-    "group": "直播中国",
-    "logo": "https://p5.img.cctvpic.com/scene/live/pic/2024/01/03/a5a18d3a421053350ed4fdba813e232d.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001",
-    "sources": []
-  },
-  {
-    "id": "fcw03",
-    "name": "云南 · 千年古寨曼丢",
-    "group": "直播中国",
-    "logo": "https://p5.img.cctvpic.com/photoworkspace/2023/12/20/2023122015581249678.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8?contentid=2820180516001",
+    "logo": "https://p2.img.cctvpic.com/photoworkspace/2023/12/15/2023121516171658372.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001",
     "sources": []
   },
   {

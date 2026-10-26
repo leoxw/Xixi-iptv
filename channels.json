@@ -5,7 +5,12 @@
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV5.png",
     "url": "https://xixitv.live/cntv/live/cctv5.m3u8",
-    "sources": []
+    "sources": [
+      {
+        "label": "音频",
+        "url": "https://xixitv.live/s/Ns9G1vnjhBOb000YsxjcpEPVRFUdreGbEZvidttHJ7KDAE3KmUeOdHc3GUQF9mjG2bFfUT-mG5TBJ5k56k56O9E_-nn7J9GNnJnN5vePh884MtnXgB6SUWCel7GMnmRf8XkKxAE-WA"
+      }
+    ]
   },
   {
     "id": "cctv-16",
@@ -13,7 +18,12 @@
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV16.png",
     "url": "https://xixitv.live/cntv/live/cctv16.m3u8",
-    "sources": []
+    "sources": [
+      {
+        "label": "音频",
+        "url": "https://xixitv.live/s/2n-z8JiC4Ry1ohehoPBnWNmtQOJHUpAvavRnuBCGPamiVousdVX2EPBa7N7-yBW7l5c5YposGPdbZg7C6xFswdaztzRJgU7SbEqZqIjlW_W4BP_ZMMG2mXQpCh61MzAL351nCFSOPL0"
+      }
+    ]
   },
   {
     "id": "cctv-1",
@@ -48,15 +58,11 @@
     "sources": [
       {
         "label": "ChinaIPTV",
-        "url": "https://xixitv.live/s/1y6DC8tdamAaKswVDpYojIr0-73P68_AIxqoeuK9_qR2ML_07t6-IAyNW5qt-Uiif7NBvibtGt9kr2uttfMTVxS71wUpJRXvWITstHegq4mux31sjukz141yflkt6gOxKdQ0fvIzN5TqOKoLATDTjWnay6Tr_2MBlSKayD6DtK33g7B_EIARnDTRO-LkOOBs4LK6-IOXe7YAnO58IlBdZLJVC3aXLEazdd_LEkwAF3OJrF1Gv1uGqbL-u5wEBh4nvbmvBpS-5VRz5AddwBfAzXi0DRPFRjqZPGfH0QetuWkCr9A0sneN696bzCoLyTJ7735u9xuo3PMXfH_fZA8BK4y3Ws4PrXoAsy8jltvadcQu12IGH6QnSs_4El_6l_5L41QQ368UuzLaz_O309UHPlzN_hwx4rh8QH8042Y1FQ"
+        "url": "https://xixitv.live/s/6ERrDGU_GW4nQPfsGWzkS202r5dvHNbFq5YX9s6QmPHe5jEbGbdBPWR4sO4iSq_XxgAs5RCP03MX02MTcs--60v6xTFpI08fOZnaJJ_Pmhlr84SD0Iuvj0DMk0NGeTwP8th6FMPLFubTsnzE_DqvLCc7dr4Ud8B0en0oSVJfBniKOWLgaTS8U2xgO9tVKvCbys4f6CJhRwjKNiESh3QpPz4LkASe1gWMscR8CksWIeOuGgFWnbx_YMLvbTGzR5lPHZL9kCG3taf2gthLO9BniJ58qgZ5hPRha1WIZIhHIPWlvRmUOSX7NmZvPurGbC5RnyF_5KUkps47v3Lt80ZGg9RI1v-3DbARIm6iZxdQ50iVD2hoA40tk17t0MG2wea5HNuwBrclpa6-tsAIZ-cnZKUQ624pDPIoVdpvF2aMuQ"
       },
       {
         "label": "ChinaIPTV",
-        "url": "https://xixitv.live/s/LghVwGjFROpyMFz5bolcA4B0ZLZhsdCDAD7X3448ul5RXR2XsewxhecPaj-ZBAWDA9VWriqMfTphmZWT3xglwLSaS_E_gk7BLOLEP8Yzu4AKPNiDhtoIoPToyfnOcyNqmbRqL7QQlpLt0DclwcEiwDyvAGh47gJOgWjxzzJyohOCKelUM3yqbK2d-D_EIb-m0rddZ_kPGmUAvSEoqbu6nuE6os4_co-V8ZLZ_ElfNA1xqIMXdK8opTWs0F6yiZH7GVvJ-hqdppC1i99eDT6lCpwxc1HQF1pSlfIDaVa7EGgF3l0DMGnASOAqY7CkcY2KMKJJ8E0O9zJiAOYylsHi1sVH_Y-WwIZEl583OIgl1ZcWHczY6k012T1eR8ZU1WOKWznZx0fOTXEAUXdDbgWXJIlgBG3iULp2QfDugtnGn5k"
-      },
-      {
-        "label": "best-fan",
-        "url": "https://xixitv.live/s/q9qgzxsxNFy2gelgZh1fjvpIzkl3PGuTE0swhJlVkA-JKyl1YnGSQTVUs1E8c_YJEilXtUas6U6leapzy_BpHnWvFufuzkKgVWpU5kpNgcbQN7o2S-vJKjXewETZvWO-W6dDMkv9bxVSbfj6ZYcuCfI4CAjpiI-NLJwj6eFqiZ7zKNPcYchh-DvmfvNXM0IMkvzim7LCdCq5LhiMqdLIm1LZ-rlW7fAs0FLjUDF7ZEKucOFb8qZ29VdYz3WsxKhpVsC-RBUMFpJpCLDGZbMRM07FbIG69fBGmO1-r6Y90hh25x99Pj7sipoczrjGbsBgrI4YVcUa2tIjf10QeM4Q6py8mXnudQ2lWAmcSSJFlWeQiOcDHrjLoB1slz2gLCCTLZDhWwxldCA6dIqJP0R604a1yYPlyAB8rXjXXzpe4A"
+        "url": "https://xixitv.live/s/qsWAugU1UTdobtQOrnkwuD6tqmIzAIuqO0VMaNozK_zBzEo_yPz5Sq1ciUfC20y-4SvAxYXymd7g1W1XEjBf8IdPKQ7OllLHwQwC_tqkDg5gr34ZhjcRw7lGrjmNbGwzOHyLfwgJoh_ugqkKFrLRQFX2vkFfc2U1D2F5YbmNRpXr1LguSOhDZ2rQJWDQ8_95a6PO9x0AodchhYFHT6TWSXD5nuYuMHT2gVmDQQm53zz8FSgtf9lFoOk2XX2CJG4nr8aP6i6Y1FBx_6s7vCgMqUrPeu7COCvZMbXIO6XjmMyTjBSB-f_x_OBmxOQsDAkFognU8RvABwHatQe9Zi9ZRtj4rNilos3uzcexzrIHOl-cFmL53iZ_KcSNMlb9h8AkrE0mt-MKqqnf4xix2hKZj9KCMy7fMsKdviEWE2MiU-I"
       }
     ]
   },
@@ -101,11 +107,11 @@
     "sources": [
       {
         "label": "ChinaIPTV",
-        "url": "https://xixitv.live/s/Oj3okJ_mpsKRcPSOziePglVxcoAlvjhW_PKQTEnEUQDsMu92MH-yZVY29XeK2sVxGc1zfUiwqbzngLuHuEcR1wJbnHq0nat5k3CF02qQW7y8-in7FZDGHWEhMDFdPFVCIL43rOVunwnfS0z-2p4HK2PF3GhPX6qCV8MLnEWa4iqA2o0NMGRo1o2_GlfCcfMCm-dMYWPGVK_IjXznEX_5J5LIgRiPtIuU_wlTaWrUzEUmsphBUNbW4tL7MRY3qo1RVijUKnoGWlKBIncmAaxxRhvrT8OE2AK82WFQ5CUrRB4O4_PNEhyVDoiaAXcoLaYt3D4S"
+        "url": "https://xixitv.live/s/Kxef2dN1t0wnnGaR-zRxdCuDRPiKs7hiekRrdK2F9a9iYZDyLus-4dEgGjjN1Jtej5d_cv3NwEC65K20h2X9W1yEjhYBH8Ooe9gP3Vpo-jQIz1RJm2AgMugKrg_J6moqS2dhtjlInxch5RCzoSMTWUhxjnaX3t0R1Ys4FDcFyaJxqje92WslzCEfSsSI3iP-kMtCOtfrzwW88MzwY9Opvw9GChCU7XqSA_ExSyFKfy7IuyLJ18gtVWlLiSGMB9ZBvWOeEqT6p4RpZkYAhclftEbL_jPVrdy8fIIXIxvI_Obwg829_7oHPHk_wDN40ZcpCiVP"
       },
       {
         "label": "best-fan",
-        "url": "https://xixitv.live/s/0A4Ieil1-Xd38LM2SXi1J50aV1El9n1WuMah99V_Uj6QuWPH8yE8kZANQ-_vzLvQEdULtMsFtFDDOzZGoNIwANOdnzPiOm461SKqf5n5Ln34Yay9dwuvj0rWro4i87WjULLWSII8m0J8mSX-gEqgycMbKCCqHmR9-sCvViFgnSDb1MO31clurOIiCy6rz2o4iLm-hAYQ-Er470DrInFiiYk89ptOVENO7HHuIfwfZw0zIW_FYmVwAsbsbqbUfJDIBoSqzFQWz_b6180bPS6-5FdFjAODBVgdhoAjQ2jg2L8gV6nQJ-kdtU14CBaHTRlLc7oP"
+        "url": "https://xixitv.live/s/d_aZk4RRlXcoKlZBO-3WJqBofuDIpKDh-Con73ZwNrtCvkiUpYLRLk6mB5wmuo00pSP7ShOGyBypJmgIIY1Zt-Xxxt6JzKZOFVQ-NcCZFlhNXn4-7tlQa15QtS4NVSI8yj_aCalE2mNlIsJQ2sPJJncO4srF7WTefpC5G4G4xYOQefXktTEsBrnajlRjSqs0C1xHHZzHR34a96basNYyhNSiCRL9ogDxAKHPkZbqnUf9ledyB8DHJP3q7KCyOcRGvToLAS8wZ3o0QTaZtoR27_L_GyLTj3H8gXV4PVIk21hXS31UlHrP2wA4NE7t_ENwR8Sw"
       }
     ]
   },
@@ -139,12 +145,7 @@
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV13.png",
     "url": "https://xixitv.live/cntv/live/cctv13.m3u8",
-    "sources": [
-      {
-        "label": "best-fan",
-        "url": "https://xixitv.live/s/pQHJ8R9iEa2QteJnW5cZ77aK2ff2TDrdXx2ATkmRin_HVpkLXwlKyaBWc7P_Hz3SEUHKIWZGmJTV9dzDd6PO_SoC90nqKwtuZCYPPxcQnaz6fo6eZlXDVUqs8wNyKQ"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "cctv-14",
@@ -152,12 +153,7 @@
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV14.png",
     "url": "https://xixitv.live/cntv/live/cctvchild.m3u8",
-    "sources": [
-      {
-        "label": "best-fan",
-        "url": "https://xixitv.live/s/VZzi0TXCsIpdCtCGJ3UKoXSA4k5oi2Xm_nQhy-Lt0MoCA8vfu0XIDf-6W-bJ9gtnkxAoFHCcPjMtwHBPPFsFcG7eHVnYAum7BPTpVb4NQeRM3cYtI-4BEc2MFwRt_A"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "cctv-15",
@@ -200,11 +196,11 @@
     "sources": []
   },
   {
-    "id": "辽宁卫视",
-    "name": "辽宁卫视",
+    "id": "东南卫视",
+    "name": "东南卫视",
     "group": "卫视",
-    "logo": "https://live.fanmingming.cn/tv/辽宁卫视.png",
-    "url": "https://piccpndks.v.kcdnvip.com/audio/liaoning_2/index.m3u8",
+    "logo": "https://live.fanmingming.cn/tv/东南卫视.png",
+    "url": "https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=b27e26291792993731",
     "sources": []
   },
   {
@@ -213,12 +209,7 @@
     "group": "卫视",
     "logo": "https://live.fanmingming.cn/tv/延边卫视.png",
     "url": "https://srs.iyb983.cn:443/video/CYS/index.m3u8",
-    "sources": [
-      {
-        "label": "srs.iyb983.cn",
-        "url": "https://xixitv.live/s/SFKra0civByyfE1be1BGRQWJHjonkhmjjY0e-OEx5s0MTr1m_iJrNq1WF-e8_mso9fp6VHIHfNnP7_-YSOdy5mJ4duU8hHEaapVtNgl4j-Z3Sx7Q-aGgPtMQqGIz"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "安多卫视",
@@ -237,11 +228,107 @@
     "sources": []
   },
   {
-    "id": "hsyg",
-    "name": "云南 · 弥勒月亮小镇",
+    "id": "东方卫视4k",
+    "name": "东方卫视4K",
+    "group": "卫视",
+    "logo": "https://tb.zbds.top/logo/东方卫视4K.png",
+    "url": "https://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
+    "sources": []
+  },
+  {
+    "id": "海峡卫视",
+    "name": "海峡卫视",
+    "group": "卫视",
+    "logo": "https://live.fanmingming.com/tv/海峡卫视.png",
+    "url": "https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=b27e26291792993731",
+    "sources": []
+  },
+  {
+    "id": "ahhs01",
+    "name": "西藏 · 甲岗拉姆雪山及县城湿地",
     "group": "直播中国",
-    "logo": "https://p5.img.cctvpic.com/scene/live/pic/2024/01/03/a5a18d3a421053350ed4fdba813e232d.jpg",
-    "url": "https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001",
+    "logo": "https://p5.img.cctvpic.com/scene/live/pic/2025/08/18/92b3ff3155bf0f269dc7ca8a0513bed7.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8?contentid=2820180516001",
+    "sources": []
+  },
+  {
+    "id": "zjwzblt",
+    "name": "河北 · 金梦海湾",
+    "group": "直播中国",
+    "logo": "https://p5.img.cctvpic.com/scene/live/pic/2025/03/26/710c31e2d0ffdb9c7d62653f206c58aa.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001",
+    "sources": []
+  },
+  {
+    "id": "lpsgmjng01",
+    "name": "河北 · 南川老街",
+    "group": "直播中国",
+    "logo": "https://p5.img.cctvpic.com/scene/live/pic/2025/03/25/5b593ec1a2e4a39af5fd16b885b45d09.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8?contentid=2820180516001",
+    "sources": []
+  },
+  {
+    "id": "hkylxs03",
+    "name": "吉林 · 北山公园",
+    "group": "直播中国",
+    "logo": "https://p4.img.cctvpic.com/scene/live/pic/2025/01/08/acca6b749e7238c6e049269246eca720.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8?contentid=2820180516001",
+    "sources": []
+  },
+  {
+    "id": "djyqyl1",
+    "name": "广东 · 福田红树林",
+    "group": "直播中国",
+    "logo": "https://p3.img.cctvpic.com/scene/live/pic/2024/12/04/ef2a14544e98ca5de879e3d83283a5b7.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8?contentid=2820180516001",
+    "sources": []
+  },
+  {
+    "id": "taishan02",
+    "name": "陕西 · 乾陵景区",
+    "group": "直播中国",
+    "logo": "https://p3.img.cctvpic.com/scene/live/pic/2024/09/11/c1b0436c655929bf1a7d590320a959df.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001",
+    "sources": []
+  },
+  {
+    "id": "hkylxs06",
+    "name": "西藏 · 岷山彩门民宿",
+    "group": "直播中国",
+    "logo": "https://p2.img.cctvpic.com/scene/live/pic/2024/03/19/feb2472707f2640e2259c1934e5f8679.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8?contentid=2820180516001",
+    "sources": []
+  },
+  {
+    "id": "ylxs12",
+    "name": "云南 · 保山板桥镇青龙街",
+    "group": "直播中国",
+    "logo": "https://p2.img.cctvpic.com/scene/live/pic/2024/01/03/b3a665d65211384538e8ed3b8779e1e4.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8?contentid=2820180516001",
+    "sources": []
+  },
+  {
+    "id": "hsxhdxg",
+    "name": "云南 · 瓦窑镇瓦窑码头",
+    "group": "直播中国",
+    "logo": "https://p1.img.cctvpic.com/scene/live/pic/2024/01/03/bc133fe0783e242ff439a562b9c1e475.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001",
+    "sources": []
+  },
+  {
+    "id": "hlzycc",
+    "name": "河南 · 浚县古城景区北城门",
+    "group": "直播中国",
+    "logo": "https://p3.img.cctvpic.com/scene/live/pic/2023/12/29/8e6935b0396c77a944c95c900e946bc7.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8?contentid=2820180516001",
+    "sources": []
+  },
+  {
+    "id": "fcw03",
+    "name": "云南 · 千年古寨曼丢",
+    "group": "直播中国",
+    "logo": "https://p5.img.cctvpic.com/photoworkspace/2023/12/20/2023122015581249678.jpg",
+    "url": "https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8?contentid=2820180516001",
     "sources": []
   },
   {

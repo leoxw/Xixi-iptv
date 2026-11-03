@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="cctv-5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 https://xixitv.live/cntv/live/cctv5.m3u8
 #EXTINF:-1 tvg-id="cctv-5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视",CCTV-5 体育 [音频]
-https://xixitv.live/s/SUx5yG7qqB1C3iYwRdWMg5ldwGasNHE7CBbfIdd6ob3FnnRBsZyNbhZP9FXKG6RuFFi3dsnFpAKL-O2fvkak-eQz7P3mLbX5RXh0X_NtFDJSlaSmLoLD03ozFZAw2bq9LFVTNisT_w
+https://xixitv.live/s/1nfPLxO1yRIJ6qdXOHeNrXG0ze4hfxV5PmL7tOBLNHnRfMRo3VEcM5XIxHJ6wQ8CZ6wCFjz8A2teBOn2FW7-2UAIdvxq_bMuNcZdGna6Hja10qG6ldDCXxHmsXWnDMXufI67wJxqlw
 #EXTINF:-1 tvg-id="cctv-16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 https://xixitv.live/cntv/live/cctv16.m3u8
 #EXTINF:-1 tvg-id="cctv-16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 [音频]
-https://xixitv.live/s/4WJMRCfSt1p6lAymE3iDgT5WdA27xsVTZsDbFNQtvxgfG6pm0W2-eDvyRp8tRzMXv786yWTfyc7DPoEvteaS1XIWwZsOuauB8dNKWt-7gJq4R4rjDO9bAGGWCceh0ngSXSr7w8J0blg
+https://xixitv.live/s/_TC3_rb-5mpU_HRyrCr-QmmPV7Ipr0lAknN7LvJ6MNg36qcTwv4sWScYS9Tt4npgW46dWulxQLJS1lA0t5inoRojeNLSsqTLSbGCd7FEiuPjJxXXsGkjKj4HsXMv7G6eqi2iw1yOZu8
 #EXTINF:-1 tvg-id="cctv-1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 https://xixitv.live/cntv/live/cctv1.m3u8
 #EXTINF:-1 tvg-id="cctv-2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV-2 财经
@@ -15,10 +15,16 @@ https://xixitv.live/cntv/live/cctv2.m3u8
 https://xixitv.live/cntv/live/cctv3.m3u8
 #EXTINF:-1 tvg-id="cctv-4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际（亚）
 https://xixitv.live/cntv/live/cctv4.m3u8
+#EXTINF:-1 tvg-id="cctv-4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际（亚） [ChinaIPTV]
+https://xixitv.live/s/KzvKx4MnPlC3vkiiS0ZmipbvA0fnwR6S7sCOoFNsx5RCxBQhd55-_dmkEoQN23arRFZHg6mWyfAvTOcsgzOCU7NmBlhm2n475curJc8zYVfZr91FdX0SC4FgJp6AF0KqSGDboISWTALJnccpbq3ztxIvCM89wqd2l7aDiiNo3mUsFRAxt43HBUH1cnIL9h9ZgrF0LKU27QbN8Ri_bGJ0c3NSm4SsDLllR7x4YWPo_tl6Noy-_b58G7gG-qkETM-FWxKE544DApjGOv4Ala0Snp7lhvuxGnviOXYD3nkUb9DanPBU91u7TWhwhIeRKHvm_xCYWgCOvStUK9czkTsCT2pj06Z-uQl-DBQPbB6rodOqCbEZFyarHbx8OA9Eaey9W0Lk_Np_OQtMSM-h3AcnnSgCBSNoMGmO0YyITSsvHQ
+#EXTINF:-1 tvg-id="cctv-4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际（亚） [ChinaIPTV]
+https://xixitv.live/s/z7lnbZ-5mCzkZVjdntPKVnDZX_6FEPH1sQq5FKdVMoeCtU1B-buCNTIxCP6pivZEkiO7QajHap7v7s_GGD1WYHY_foY2Rs6UdxPQZyBL4-F6bMctxS34MwCRIFLGEDskAjrKQMhXLm4r5BvhFITDd9cZEvup7hE20G9n4oSorf8x3zKm7E9S8eGwI2CDaMwyb6iamlxDTBJAQC0O2ZrWv84XaycRHYJPsvsvtH2LSIJSeeRZ2fHjN1A_x7Zw35p5umypv_ZZvUXoPemEWVfnPqxvvdDU1YOVZtO1qLo4BGsbMZwfLuOUJCiHBAigd-73sEqfRxfP864Xqv19E0PRNc288cKbPIlxksamiWGwERubuWW07T1pXgFV6YKxDJyxNj1zwruL6LGu65BWhQBe_T1lVwSPi6xvrbrN9eRz4mY
 #EXTINF:-1 tvg-id="cctv-5plus" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 https://xixitv.live/cntv/live/cctv5plus.m3u8
-#EXTINF:-1 tvg-id="cctv-6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视",CCTV-6 (1080p)
+#EXTINF:-1 tvg-id="cctv-6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视",CCTV-6 电影频道
 https://xixitv.live/cntv/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="cctv-6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视",CCTV-6 电影频道 [音频 · ChinaIPTV]
+https://xixitv.live/s/u04JsFG4m2CIux9ZGgRFE3tkXXTdeJwknGNLK9m20NljdDNcuZ8grRaLKh6s0hFOPFLApnnc7894Y8Iuma3Ozha1xg3HztrGgjPH_KgnMO2eQbl1QIfd8pHtj2SIBRkg2n69Lsb2cI1MtpA
 #EXTINF:-1 tvg-id="cctv-7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
 https://xixitv.live/cntv/live/cctv7.m3u8
 #EXTINF:-1 tvg-id="cctv-8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
@@ -26,9 +32,11 @@ https://xixitv.live/cntv/live/cctv8.m3u8
 #EXTINF:-1 tvg-id="cctv-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
 https://xixitv.live/cntv/live/cctvjilu.m3u8
 #EXTINF:-1 tvg-id="cctv-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-9 纪录 [ChinaIPTV]
-https://xixitv.live/s/GKkPeiogJeX2tVzbwr7LqJjFKF9k-05JwGpK7OnyKCXorBUUDkLIbGxP0fm_UaDMz3iNlXysEkkSR78eSYAYqBj6Ycg3j9FcwUTfQBQDdyYgzc1KN_-BCcyIX0SiLg8ERZm0zFeWneMNO0Udj4Tetn30E7LISXfOxc2bW6p_310-3o3k9Uxj3h9Um5RRzs4EANfCJSsojYel2ynoPIO4AT0DJrGijeUEM2mJVFprEvfw6tiEIwPxVKl4yuDPOeXqRfVDZPbHiPptY_ar3An8408E0JBlMU6FVN3HlN1OaPilnI_ANBc90mh9ETDrLzeTbBXC
+https://xixitv.live/s/vaFc64STh8wAp54qMTKfhQxwzrSAeAgIjyjFYlwY7M_m_xTqQODeNwTUTSXYKD9ru3qws7ridohVgc7svqtj5T38LeP__1TRCnJc2X7CM0ZJlHi9wtIi6kT9VKYJ_gQi97ke_m588VQaA1dM3aY0hFQTWjNKkNFh07UEpE3UsKLQX3Epu1WZSixbIVHQRKUw2OmRq5tCb5eiV53FO5I9Sisq5bsAbQcExYUQPqFR8vo4r89ttBRgjikD7Nx5-6Csnw0M56uYGbzh4B2Zh64xqthIicph2oTmcVXd1tGS5EmXFRiXtRvIgnPvv7FVDCHr95Di
 #EXTINF:-1 tvg-id="cctv-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-9 纪录 [best-fan]
-https://xixitv.live/s/mydtvxtaFCbXkZQqZzL4MVA4H79-i02IyFGYIdcC8jNaVxODcB9wHiuliIHbB2tfgv4oqjZFh4XP_vSpixaQDVBpc5zSDANnVotRWCnrHLO03RyyAJcrD4chYtGkL7NoEvCAG_XEtdfHhhBThx-X9wXWo93_yiZFt91lo8V_dMW_lCmFMCIu20kcqcDvxn-F5YdlCRK2cd9FAVVFb2k5-AqFpbTYtrjjARMTxTbSVz4Q-czj1UTU2-ZMzMzBDFVNjH0AUld-QAhAJRc8ue0B5FxJ72bEahlNgkuPFPPuToCM3TU_fnCPaQlpXrn96cfHH8B8
+https://xixitv.live/s/Cf4F3EG3Z-pz2U-ohCA67P0QdbhTwf9-BBJjvQKEFQO0YOBpnQJJ5fVJaQEPVvSow07yKL8YG9IBYjvbMRPWEAVFI0FQOgwsGVS5E78hjTpJ9h8lsq986RtReKjTgsnd2AZWw6E9i7o70aDvkutgMGxUKNoK042ltOFVlLGxkxtrRUiYMr2KGFTYvxW916WMfTNl_NZDkSFEifDKpbV2waDqPRvDft75zVvF3ton9TpOczPqfaHP7N0UJ-AlTo4qcI_7l8Cw7v9jrCvkag2kG0dlZxxft1eU7sX42TqdAbSlw9kXWdts03s_EfYTFhozYt3_
+#EXTINF:-1 tvg-id="cctv-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-9 纪录 [best-fan]
+https://xixitv.live/s/4AEowCHIoobemCaSOx0lAvuWkMts3B8w5OJWeD4L-hd6stvuZoFvonMSnjptJXwqjV0GLikKGZpbKzl3r7PNNmR6LhFFVCKOMsAyL0IcjccAeWYI7_uIoHOkVjjH5O9215pRxgsCCqs0UPRPgNnbmrQV_gXAH_qbu7i32ot2WD6QU3kiksJlYFvnxt-bgPffkQ9CekLXye2wSgz64tMgagt6e-EtFUk0nKW4AHxYxcLkehWLIpcuzvvoM9EAZiieWXE7j8MVDWmrCDyr8LQyFAFlW1NJAa7u58PUfwFom6dihkEGG4LuP6AVXx51i8b5MMM0
 #EXTINF:-1 tvg-id="cctv-10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视",CCTV-10 科教
 https://xixitv.live/cntv/live/cctv10.m3u8
 #EXTINF:-1 tvg-id="cctv-11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
@@ -47,38 +55,14 @@ https://xixitv.live/cntv/live/cctv17.m3u8
 https://xixitv.live/cntv/live/cctveurope.m3u8
 #EXTINF:-1 tvg-id="cctvamerica" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际（美）
 https://xixitv.live/cntv/live/cctvamerica.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视",河南卫视
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 #EXTINF:-1 tvg-id="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 tvg-id="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视",延边卫视 [srs.iyb983.cn]
-https://xixitv.live/s/4fkNsfKyAWJ2JiUBTxxdijNkeceGpmEdfPnO7tMLcQcQk2sILxCAU6HGqB6wtnT2D6RlTVjRn-IuaGlPczPplx4hQwmVlQwDFlqJHS5-3lp57qsmIboJuzc4oQVpNg--Hw
+#EXTINF:-1 tvg-id="安多卫视" tvg-logo="https://tb.zbds.top/logo/安多卫视.png" group-title="卫视",安多卫视
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-id="人间卫视" tvg-logo="https://tb.zbds.top/logo/人间卫视.png" group-title="卫视",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-id="东方卫视4k" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="卫视",东方卫视4K
-https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 tvg-id="lsdfgfl" tvg-logo="https://p1.img.cctvpic.com/scene/live/pic/2025/04/30/ca3c90b914631ade5c1a81cfc5b49fcf.jpg" group-title="直播中国",甘肃 · 漳县贵清山植物园
-https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="taishan03" tvg-logo="https://p3.img.cctvpic.com/scene/live/pic/2024/06/11/a7e846e9e12d9ef7b5d57e3854e8ec6c.jpg" group-title="直播中国",黑龙江 · 嘟噜河省级自然保护区视角1
-https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="zjjsrsm" tvg-logo="https://p1.img.cctvpic.com/scene/live/pic/2025/03/20/cfcfb61c907fa1077e4092985c9615c7.jpg" group-title="直播中国",河北 · 京娘湖 视角1
-https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="xjtcdhsz" tvg-logo="https://p1.img.cctvpic.com/scene/live/pic/2025/03/20/231b822ac4a5c3c10b1b49010926839e.jpg" group-title="直播中国",河北 · 京娘湖 视角2
-https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="hsxksqj" tvg-logo="https://p3.img.cctvpic.com/scene/live/pic/2025/01/08/1bcb106b032729c95ccb3dcba6652e73.jpg" group-title="直播中国",吉林 · 朱雀云顶远眺
-https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="hkylxs03" tvg-logo="https://p4.img.cctvpic.com/scene/live/pic/2025/01/08/acca6b749e7238c6e049269246eca720.jpg" group-title="直播中国",吉林 · 北山公园
-https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="hkylxs06" tvg-logo="https://p2.img.cctvpic.com/scene/live/pic/2024/03/19/feb2472707f2640e2259c1934e5f8679.jpg" group-title="直播中国",西藏 · 岷山彩门民宿
-https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="ljgcwglytylxs" tvg-logo="https://p4.img.cctvpic.com/photoworkspace/2022/09/22/2022092214285875577.jpg" group-title="直播中国",重庆 · 巫山长江画卷
-https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="dhyyqsm" tvg-logo="https://p4.img.cctvpic.com/scene/live/pic/2024/01/03/348520e0de7227ca107d71213283e7d0.jpg" group-title="直播中国",云南 · 勐焕大金塔 
-https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="fcw03" tvg-logo="https://p5.img.cctvpic.com/photoworkspace/2023/12/20/2023122015581249678.jpg" group-title="直播中国",云南 · 千年古寨曼丢
-https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="cgtn英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="cgtn记录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视",CGTN记录

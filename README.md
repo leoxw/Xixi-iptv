@@ -6,7 +6,7 @@
 
 | 文件 | 内容 |
 |---|---|
-| `playlist.m3u` | 全部频道：每个频道的主线路，外加每条备用线路各一条目（条目名带 `[线路名]` 后缀） |
+| `playlist.m3u` | 合并列表：前面是 xixitv 全部频道（每个频道的主线路，外加每条备用线路各一条目，条目名带 `[线路名]` 后缀），后面追加 vbskycn/iptv 的 iptv4 条目 |
 | `direct.m3u` | 只有第三方 HLS 直链的频道（卫视 + CGTN），普通播放器可直接播放，**日常优先用这个** |
 | `cntv.m3u` | 只有央视频道，地址是站内的 `/cntv/live/*.m3u8`，有限制，见下方说明 |
 | `channels.json` | 规范化后的频道数据（名称、分组、台标、主线路、备用线路，地址均为绝对地址） |
@@ -21,6 +21,12 @@
   ```
 
 - 仓库带了 GitHub Actions（`.github/workflows/update.yml`）：每 6 小时自动运行一次同步，频道有变化时自动提交；也可以在 Actions 页面手动触发。推到 GitHub 后即生效，不需要自己的服务器。
+
+## 合并的第二来源：vbskycn/iptv
+
+`playlist.m3u` 在 xixitv 频道之后，追加 [vbskycn/iptv](https://github.com/vbskycn/iptv)（GPL-3.0，来源已按其要求注明）的 iptv4 订阅（先试 `https://live.zbds.top/tv/iptv4.m3u`，失败回落 GitHub raw）。合并时原样保留对方的 `#EXTINF` 行，只做三件事：去掉对方的 `#EXTM3U` 头、只保留 `.m3u8` 直播地址（去掉其中的 mp4 点播条目）、按地址去重（与 xixitv 已有地址相同的跳过，xixitv 在前优先）。因此同一个台在列表里可能出现两次（名字相同、地址不同），属于不同来源，播放器里会显示为两个条目；`direct.m3u` 和 `cntv.m3u` 不含这部分，仍是纯 xixitv。
+
+不合并 iptv6：上游自述近期大部分 IPv6 源已关停。vbskycn 抓取失败时不中断 xixitv 同步，那次 `playlist.m3u` 只含 xixitv 部分，下次同步会重新尝试。
 - 生成文件不带时间戳，频道没变化时不会产生无意义的提交。
 
 频道概况（以 `channels.json` 为准，会随同步变化）：央视、卫视两个分组，含 CCTV 系列、CGTN、湖南卫视、东方卫视 4K 等。

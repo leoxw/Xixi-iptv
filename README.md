@@ -7,7 +7,7 @@
 | 文件 | 内容 |
 |---|---|
 | `playlist.m3u` | 合并列表：前面是 xixitv 全部频道（每个频道的主线路，外加每条备用线路各一条目，条目名带 `[线路名]` 后缀），后面追加 vbskycn/iptv 的 iptv4 条目 |
-| `direct.m3u` | 只有第三方 HLS 直链的频道（卫视 + CGTN），普通播放器可直接播放，**日常优先用这个** |
+| `direct.m3u` | 与 `playlist.m3u` 内容相同：全部聚合到这个地址，**日常优先用这个** |
 | `cntv.m3u` | 只有央视频道，地址是站内的 `/cntv/live/*.m3u8`，有限制，见下方说明 |
 | `channels.json` | 规范化后的频道数据（名称、分组、台标、主线路、备用线路，地址均为绝对地址） |
 
@@ -24,7 +24,7 @@
 
 ## 合并的第二来源：vbskycn/iptv
 
-`playlist.m3u` 在 xixitv 频道之后，追加 [vbskycn/iptv](https://github.com/vbskycn/iptv)（GPL-3.0，来源已按其要求注明）的 iptv4 订阅（先试 `https://live.zbds.top/tv/iptv4.m3u`，失败回落 GitHub raw）。合并时原样保留对方的 `#EXTINF` 行，只做三件事：去掉对方的 `#EXTM3U` 头、只保留 `.m3u8` 直播地址（去掉其中的 mp4 点播条目）、按地址去重（与 xixitv 已有地址相同的跳过，xixitv 在前优先）。因此同一个台在列表里可能出现两次（名字相同、地址不同），属于不同来源，播放器里会显示为两个条目；`direct.m3u` 和 `cntv.m3u` 不含这部分，仍是纯 xixitv。
+`playlist.m3u` 在 xixitv 频道之后，追加 [vbskycn/iptv](https://github.com/vbskycn/iptv)（GPL-3.0，来源已按其要求注明）的 iptv4 订阅（先试 `https://live.zbds.top/tv/iptv4.m3u`，失败回落 GitHub raw）。合并时原样保留对方的 `#EXTINF` 行，只做三件事：去掉对方的 `#EXTM3U` 头、只保留 `.m3u8` 直播地址（去掉其中的 mp4 点播条目）、按地址去重（与 xixitv 已有地址相同的跳过，xixitv 在前优先）。因此同一个台在列表里可能出现两次（名字相同、地址不同），属于不同来源，播放器里会显示为两个条目；`cntv.m3u` 不含这部分，仍是纯 xixitv；`direct.m3u` 与 `playlist.m3u` 内容相同，同样包含合并后的全部条目。
 
 不合并 iptv6：上游自述近期大部分 IPv6 源已关停。vbskycn 抓取失败时不中断 xixitv 同步，那次 `playlist.m3u` 只含 xixitv 部分，下次同步会重新尝试。
 - 生成文件不带时间戳，频道没变化时不会产生无意义的提交。
@@ -38,7 +38,7 @@
 - 脱离站点页面直接请求该地址会返回 `forbidden`（站点靠浏览器校验放行，具体规则未公开）。
 - 它的分片经过 ChinaDRM 加扰，站点播放时靠一个补丁接口逐片还原，普通播放器即使拿到清单也无法直接解出画面。
 
-所以 `cntv.m3u` 只是如实同步站点的地址清单，供研究和在站点内使用；想在外部播放器里稳定看央视，需要另找可直连的央视源替换这部分。卫视和 CGTN 的直链（`direct.m3u`）不受这个限制。
+所以 `cntv.m3u` 只是如实同步站点的地址清单，供研究和在站点内使用；想在外部播放器里稳定看央视，需要另找可直连的央视源替换这部分。卫视和 CGTN 的直链不受这个限制，但 `direct.m3u` 里同样含有央视条目，那些在外部播放器里播不了。
 
 备用线路（`sources`）是站内代理地址 `https://xixitv.live/s/<长串>`，是否过期无法确认，所以每次同步都会从接口重新获取，不要长期缓存旧地址。
 

@@ -8,7 +8,7 @@
     "sources": [
       {
         "label": "音频",
-        "url": "https://xixitv.live/s/-8Z6ncDf2okoGrKsEuf8UYUFowD0lP2GweJzvJE7M-OzPyjIXLIeMKPvyOiHX3h9LvaPCfGRJif2mTlLlQgqLDgWsoNMVyd0_XjzWX0nwG7Zh9LfBobB3dkhwyCMf7HfglgrCR6k5A"
+        "url": "https://xixitv.live/s/HTPPI9_rQGP1M1YW78MQmy1Tc2f0Ffp7RNFmB9k8FenRVs6fLxBOYxa-z1Xvb8dN5bcjrXz4RK79YP_hEW9XFdMU0D-oH2ZXGLNHE8v_-5AGTM9AZejWnpOpwKDs2t9SiEprTMzisQ"
       }
     ]
   },
@@ -20,8 +20,12 @@
     "url": "https://xixitv.live/cntv/live/cctv16.m3u8",
     "sources": [
       {
+        "label": "音频 · ChinaIPTV",
+        "url": "https://xixitv.live/s/DtKEZClQw06PLK_qTE5JLOtGnHr8fNou_p3KON8PwuIA7g0ooeMnbGMB8-g8MH58vsJtG_ZlFXZKFfTW56d936OaTm49dyQNNgji3PBPe-QqOBAYOxHZrBw63g9Yy3YZtREEdmz1wgTjnacS"
+      },
+      {
         "label": "音频",
-        "url": "https://xixitv.live/s/1jeOPMm7Lg6oDCizLZghl6m4zApXn2khagC3K8J0uZoc1TP48cqtmCY8RSrdwin2PhOIjl1b1MC1jR_eH6SCBeOWJ-e6BA6FIUHJa187zyxWzRLh9uCJmv3LSqZssTzlK2vQv5qP3EU"
+        "url": "https://xixitv.live/s/KCoeHA_Gu14PEsGpX_DsZvn6mu2wJIaKD_9OjSpcoWmjNQudE5d8-fzckBCqkGumpmG5tx5qp7RsT5JksBgzXE7cEC6jr1b1LqiUqmCVz-YiUG4dNNvRbrfU7tVR_55MTEJicZTOO_E"
       }
     ]
   },
@@ -31,7 +35,12 @@
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV1.png",
     "url": "https://xixitv.live/cntv/live/cctv1.m3u8",
-    "sources": []
+    "sources": [
+      {
+        "label": "best-fan",
+        "url": "https://xixitv.live/s/4n4NI2kUrTfc2o873D6CxtNEem2iciJUQJ_H3JCYEszrIrEx8CREGsFMBjS7fNfjU_V9EQqpzUNDdZcuDGEnMy_fcDV8DWoQ_45P3WAiExyMjiD9Ax3mocQ85mYgGhkHrC3qHich4d_Jb06cZ_myyrxD2mHSug7Rr2etF_eVkoCVn_IQ-3omTMFnL5YYRFDN9E6bx33FLG3I504ueWucnmYkaL1Otniimnwpvwc4buODzt2JNHqqw-tPTuC5IEyqlJE"
+      }
+    ]
   },
   {
     "id": "cctv-2",
@@ -55,7 +64,16 @@
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV4.png",
     "url": "https://xixitv.live/cntv/live/cctv4.m3u8",
-    "sources": []
+    "sources": [
+      {
+        "label": "ChinaIPTV",
+        "url": "https://xixitv.live/s/hN14EVZ1xWmQ15ua33uRuVkOdiUM2LntcbFll27uB9i22rXwCFvunGFAQqKK3uMlm3_8s8TrucQl17S212qOTazvP2CkKsvthO3W77vjEcKi5z38cf4-mZMDCNHMoEN3zejpfIX3VMqgRVJY-Gma5EFK1cg-n8lqw93xWpQWqc96v_Zy3-12AXvk8xWj3NUuKc-3pUn3UuewTQPm8-f1YDgWhFn_qjxJzPQe4k4PakL88vx6Jx2wpxbPELX6BNfxgcdu0nmdC5IYPUJ_ssQC2X07TGPUDnSpjS4PpjbjM7pcq_8musztTmJXTggHzPDAqXAsc1RqM0PQ1jxugtUek36_wk5qdCwOSzY1XXHTBagg3TVAO4vaCACPEKS_XdN0urtYArLm5CMs-RILBtQZvmsuv7UqIVuJsWwb02xDZg"
+      },
+      {
+        "label": "ChinaIPTV",
+        "url": "https://xixitv.live/s/DSM7wDzd3ZX6iLa0fyTmS0M5DUygMeH7aCtkeVoJhql9eNWvXNMXxGtgc5rJhrHcU5y9sbUXkFpRWecjM98N18bpd74rd7RWSYHkwHQxCqx2xUplwhSLS0P2xkEWJKu4ztrMLrq60exAOWoeP3RrYwy-hVoFuP9Z7-dLA1ZcxNZSPHo9xkI1i2EWQfGo5Safz2AR6YVaRDO9q0ZMVALgY6EgvNXzUuPGSqHY1GsDcTxa78LfQV_XG4Vjdn4pGS3sx9Ii1hxCGjFwFhrUNCk1Z5w50AOVooXg09A8rk48aZvr7yTkNPGLPAslF_EzZXWKjAUzzqpMTbZw3RLp4WZWjuggmJYXCQ7IAr8d5zn2r94EaSH9uSsuu0oLysMsjxOp80uXGkHFbAj5ISjDR-4Pn3BtKBLEcVm-Aa9net7akSk"
+      }
+    ]
   },
   {
     "id": "cctv-5plus",
@@ -97,12 +115,20 @@
     "url": "https://xixitv.live/cntv/live/cctvjilu.m3u8",
     "sources": [
       {
-        "label": "best-fan",
-        "url": "https://xixitv.live/s/58Gh0ooQS5caBFKMSf0TYlel2QzPDGceJg39eJsmCCHwoGDM3PTud9_mxdITYe8pIhMITR_sV3qLMrm9zR5Ir0epTSigZB7gHv4bIbCwEsVClGF3U95sv-jdCoUwBi9ylcSDInUdX7uqoUsOMGac3dFl5rOJUZfrwv8BSVw9tlxBwbvEsudMKhxjqvw1pXv-7UR7K_GMVmaepqf0RnSEE4aFqIclS1l0xVH0uP3_Y5AnFj_mJaOd--FGQcISLDtzQc6fUEDyNmCTf_oCHXxknqVpDHmFf87XpSWZ5KUxm1__nx3bmbe_mrdzV3iBUGoAApRP"
+        "label": "ChinaIPTV",
+        "url": "https://xixitv.live/s/M1S5St0awxe1dgbupPPM1AmFQRlXGM7Qy6gF9ghv4THbl79aglAAyWhSDKJGozSr6Am0T4XQ7UK2UcebC2Q_Wzp3mqcFM4Fodf3DM-oWpAQ_wX3GHjYHWIDhX1KvMo9VCoixc0L82NYh6OFkN1cIIZrgPDpo2_QoaZdm0vqgUdHnYFQNtr4uMqHYaHREpVw_EbZ5cMsjBUQF9ERTvaRHgZxSEgFqBRZ-FrSG6EalOAbidItoHgBaIR4E4Kbnp2PQ5his2I9sgphIocbvn3-29bFc_Dv7oownnTPteXiCCOjkFm91NJGX67x_W_2Zlcj3o_A_"
       },
       {
         "label": "best-fan",
-        "url": "https://xixitv.live/s/ds6kPV48kqT0pMAIuq4m3GrHFwk6JJaPDsiEISJQaUX_0tQdtoGhxc_3rZImy-Y7k-AtPtJrxSqTHxeuWnDb_a_Jy11pvWx4Pw8YPLk07BKj0iRKyPM"
+        "url": "https://xixitv.live/s/UIUG6DvTJNbgfp5AruGBBsEDAJ2scKzyzNLh8SxPV1UDWnHSZtpLPS5zWZMzzcmK2i4p6EPHPWDVoXvDaqVeQt8ZECWsBqzeVkOEoY5ssqdAIro-hOxk7swAdWPDdS2jeyjib9Et5rC7MG-LKUUm5yI-Xz2R0hmxortw09rLQ4pH1w0jyCNySdlo6u5Hr51BBEa5d_mXdeZB5lQ96kokD09-5fnWtrY8JQSuZR5MnW4Pvbtj_VmcfPVJzQENwn0RrZaxMzmihRXXX0tC-8CxfQE9cWE6r2A98KIvTC-lbxYIbT_tLKfpM2XfPe1wxmJkpr-7"
+      },
+      {
+        "label": "best-fan",
+        "url": "https://xixitv.live/s/IsXAhJCNl1SDOzN0NZyE_wsdqCFGsZtkAqkGO1vMpM1sEBBFA1nF_bmGKie0DZI2Fe7zYWwLq0p63JCAos4XtXAWWBQ408y59AE9gdc7PT1Z0d12Y_o"
+      },
+      {
+        "label": "best-fan",
+        "url": "https://xixitv.live/s/htoJ0oHyP41xYax3Orr1bUvBKJG-vi4TgOZs-SpWktUsWJd8XvoQ0csiZP9TwQydCMRRtEb1NhZbEGFb7fJ_eloeKww1O-M_VwH-YLnL7LMx1704ahKU0KwllM0t8F3PI3WP6t5WojsvCzFiLADhvJ3vl8FE46J4J0fwK0jgQcar0YKfF1EyIrf9sIOwGJ_20botj6xqYja6x6GPC0BCAYayAdHlkUAtPHEdH3zO6xxtghuTZ4PMFCKX6CmWrLBmguIxb7cjoKTqUdvDkKbkaDYKbCMDrTrM_QdOW1jvRDzAbdt6Tfu_fZFYCqteAAoi-UEw"
       }
     ]
   },
@@ -136,12 +162,7 @@
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV13.png",
     "url": "https://xixitv.live/cntv/live/cctv13.m3u8",
-    "sources": [
-      {
-        "label": "best-fan",
-        "url": "https://xixitv.live/s/EfviMnz-etLH23ZZ4W1bsQ5Ri1WxaslYulQkgxiVVTQtaQNKYvZsKYaselwNzvVkBJie-1tdDbVIfutyB4Ca9vTE03Lc9aztW0ug7XuH5e-jb06y8qSfMy-4hCU6fQ"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "cctv-14",
@@ -149,12 +170,7 @@
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV14.png",
     "url": "https://xixitv.live/cntv/live/cctvchild.m3u8",
-    "sources": [
-      {
-        "label": "best-fan",
-        "url": "https://xixitv.live/s/THIiZkzADg1sve8PHWFNst84PD109oWRfKAr3v26Pr6V66QLtV4fNZyqPXFv_I7lJNssJTWzfXVxOgAzj6F0Wz3xkfplnBI9nhWDqwHZXgmcPooHe8AdPD-3xpbe_w"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "cctv-15",
@@ -189,11 +205,43 @@
     "sources": []
   },
   {
-    "id": "湖南卫视",
-    "name": "湖南卫视",
+    "id": "四川卫视",
+    "name": "四川卫视",
     "group": "卫视",
-    "logo": "https://live.fanmingming.cn/tv/湖南卫视.png",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8",
+    "logo": "https://live.fanmingming.cn/tv/四川卫视.png",
+    "url": "https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8",
+    "sources": []
+  },
+  {
+    "id": "天津卫视",
+    "name": "天津卫视",
+    "group": "卫视",
+    "logo": "https://live.fanmingming.cn/tv/天津卫视.png",
+    "url": "https://piccpndks.v.kcdnvip.com/audio/tianjin_2/index.m3u8",
+    "sources": []
+  },
+  {
+    "id": "安徽卫视",
+    "name": "安徽卫视",
+    "group": "卫视",
+    "logo": "https://live.fanmingming.cn/tv/安徽卫视.png",
+    "url": "https://piccpndks.v.kcdnvip.com/audio/anhui_2/index.m3u8",
+    "sources": []
+  },
+  {
+    "id": "广东卫视",
+    "name": "广东卫视",
+    "group": "卫视",
+    "logo": "https://live.fanmingming.cn/tv/广东卫视.png",
+    "url": "https://piccpndks.v.kcdnvip.com/audio/guangdong_2/index.m3u8",
+    "sources": []
+  },
+  {
+    "id": "广西卫视",
+    "name": "广西卫视",
+    "group": "卫视",
+    "logo": "https://live.fanmingming.cn/tv/广西卫视.png",
+    "url": "https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8",
     "sources": []
   },
   {
@@ -221,7 +269,7 @@
     "sources": [
       {
         "label": "srs.iyb983.cn",
-        "url": "https://xixitv.live/s/58ndk0QpDP_-ZcfELQuZYpyTZOFslL4YqkrT0H7TSiEtgEkk_BrAvgFPfWLn25ahBqWKaYB52ihMho8tOZ72Qd5DafvLZXpvgZl33g7O4kdSrA8JLJNWzDLV5-RA"
+        "url": "https://xixitv.live/s/RdWUOW8GkqP4NxjqZrD-L5kStsrvnDa6uodNPRMPbkaOkmvc9h6A7uIgx43GQTJHhs_Gqnv0iik02wXWBxi2WdMHEHicMUh2JWVY0onsS8zA6Lc_j1EMbyuIyJJT"
       }
     ]
   },

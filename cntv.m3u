@@ -13,7 +13,7 @@ https://xixitv.live/cntv/live/cctv3.m3u8
 https://xixitv.live/cntv/live/cctv4.m3u8
 #EXTINF:-1 tvg-id="cctv-5plus" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 https://xixitv.live/cntv/live/cctv5plus.m3u8
-#EXTINF:-1 tvg-id="cctv-6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视",CCTV-6 电影频道
+#EXTINF:-1 tvg-id="cctv-6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视",CCTV-6 (1080p)
 https://xixitv.live/cntv/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="cctv-7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
 https://xixitv.live/cntv/live/cctv7.m3u8

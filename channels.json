@@ -8,7 +8,7 @@
     "sources": [
       {
         "label": "音频",
-        "url": "https://xixitv.live/s/uRMdRMFS89wsrljLP01vWodMTaqXbPmtTQMGWdbAOrMHYnW_0NRVQxk4MQ2DAHAHoT5oFD5xC-9hdJ2VrxnkILaKxL6lx29qgzVJ-VzBNHZDfnnczRpfwqFGh9T8wCYtUgvts46Xxg"
+        "url": "https://xixitv.live/s/L0THr7wSRDbvaiTFP7V2EPKjYe4ZnvOqkCrBBCGjF9TeYiEhC1nMZu1Y73TdHSEY_NuKs4sM03HKXDJEXAcuAkiexJAQkf8M1fpj9MSq-bSxkXV8asHAVX3IPjzA_VQoklGFfvxAiQ"
       }
     ]
   },
@@ -21,7 +21,7 @@
     "sources": [
       {
         "label": "音频",
-        "url": "https://xixitv.live/s/E-mqnbFiEG4Mz21K0lJ17T4-fBqhi0VcmBRFdXU2ap03PLNb_-Xid8DfztEYDJJYHITMKgXjHv5Dz29qXW812MwvgWAI_uNglAqztNupgV7VMT-w6GFR9KK7Ah7BmNEPT5V91yISTz0"
+        "url": "https://xixitv.live/s/PSzDra7iA6FjtCeDEUey27XoHKQHxOz8H7Sn55Ex0IKM4_fS1POBKUhXs76o_BYjb5yhY-czlmRSeQwAdc5WjiN5Pey9V-JSPXplo02d-Ac5h6k-QvBET-yNPWTqqnrpLfc8Bax4JAs"
       }
     ]
   },
@@ -67,7 +67,7 @@
   },
   {
     "id": "cctv-6",
-    "name": "CCTV-6 (1080p)",
+    "name": "CCTV-6 电影频道",
     "group": "央视",
     "logo": "https://live.fanmingming.cn/tv/CCTV6.png",
     "url": "https://xixitv.live/cntv/live/cctv6.m3u8",
@@ -97,12 +97,8 @@
     "url": "https://xixitv.live/cntv/live/cctvjilu.m3u8",
     "sources": [
       {
-        "label": "ChinaIPTV",
-        "url": "https://xixitv.live/s/V4xqu-DrfpB8aLyTYMxZRTtaSm7xG_esvspUDDg6gVJylgay56xQldFmihvAaXP5MRDiX-vN6sS4Esw6DuXQSE3nC-Q4UB6uOIVghoxD6-EOgquXf-SPhteWBpjA---dSJDkuBebvUXa09cJGFoidnWoHcPv3x3GwDwxYhZlfbtdokZyqXj0AjC1Kj7bAnXNFlUEQvDngoRRIrtg7s4BFOsbNQuukjM0j9Gcr1cDWQOZgVo2ljeLUikvIMXpf6bLA2AXMYtnliFS6P9J0Std4IVCFPiIZ5dQROO62vAvI1LUsZfhnS1u2EAdKUxyLxXl-_kL"
-      },
-      {
         "label": "best-fan",
-        "url": "https://xixitv.live/s/j0VMYL3ZDuu-TcX36ok1UZ_5ES7Q3GdelwRPPev8bYYrIe-sBXfc-d64rMqTgTnIXbv6ryYqEUlOscXeiEn6nGMFcrK_Mn6h2U47qzcBCOfQFtQeLEc"
+        "url": "https://xixitv.live/s/gF47rGF_HM_4mdrVCLI1UmzxBGlECiy0OK9hmWLV0EayyRGD0BuRNX5vWgMYUD2HVsiDHUS3AP0uzJ7M_CQMpyILhr6l_H_LJKjR3pbfqoyFY3ZmxQI"
       }
     ]
   },
@@ -184,15 +180,12 @@
     "group": "卫视",
     "logo": "https://live.fanmingming.cn/tv/延边卫视.png",
     "url": "https://srs.iyb983.cn:443/video/CYS/index.m3u8",
-    "sources": []
-  },
-  {
-    "id": "安多卫视",
-    "name": "安多卫视",
-    "group": "卫视",
-    "logo": "https://www.xn--rgv465a.top/tvlogo/安多卫视.png",
-    "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8",
-    "sources": []
+    "sources": [
+      {
+        "label": "srs.iyb983.cn",
+        "url": "https://xixitv.live/s/PJCcPR9fDastbnX8b0nr5Sp07BVuemqgzkvn4LNz4CI0emq3nII_Ib__5T1hxIZ2t1N6LDWRzHBbL06CFiZJHcIKsadYG9eoJ88NAOVrgnZLG4Ubsg-SoHAbAdxZ"
+      }
+    ]
   },
   {
     "id": "cgtn英语",
